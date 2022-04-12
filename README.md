@@ -1,6 +1,10 @@
 # Slack Event Reminders Template
 
-How to use this template:
+**This code is not meant to be used as-is**.
+
+This template is meant to create the general setup we use at Virtual Coffee for our event reminders in Slack. You'll still need to write some code in order to use this template in any meaningful way.
+
+## How to use this template:
 
 - Click the "Use this template" button above
 - Customize the [`getEvents`](./util/getEvents.js) function to get your events
