@@ -1,0 +1,12 @@
+[build]
+  functions = "functions"
+
+[[redirects]]
+  from = "/slack-interactivity"
+  to = "/.netlify/functions/slack-interactivity"
+  status = 200
+
+[[redirects]]
+  from = "/event-reminders"
+  to = "/.netlify/functions/event-reminders-background"
+  status = 200
